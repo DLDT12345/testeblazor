@@ -1,0 +1,9 @@
+C:\Users\User\Documents\projeto blazor\Shared\bin\Debug\netstandard2.1\projeto blazor.Shared.deps.json
+C:\Users\User\Documents\projeto blazor\Shared\bin\Debug\netstandard2.1\projeto blazor.Shared.dll
+C:\Users\User\Documents\projeto blazor\Shared\bin\Debug\netstandard2.1\projeto blazor.Shared.pdb
+C:\Users\User\Documents\projeto blazor\Shared\obj\Debug\netstandard2.1\projeto blazor.Shared.csprojAssemblyReference.cache
+C:\Users\User\Documents\projeto blazor\Shared\obj\Debug\netstandard2.1\projeto blazor.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Documents\projeto blazor\Shared\obj\Debug\netstandard2.1\projeto blazor.Shared.AssemblyInfo.cs
+C:\Users\User\Documents\projeto blazor\Shared\obj\Debug\netstandard2.1\projeto blazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projeto blazor\Shared\obj\Debug\netstandard2.1\projeto blazor.Shared.dll
+C:\Users\User\Documents\projeto blazor\Shared\obj\Debug\netstandard2.1\projeto blazor.Shared.pdb
